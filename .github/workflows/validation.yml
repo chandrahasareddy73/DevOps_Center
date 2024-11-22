@@ -19,8 +19,6 @@ on:
         - 'force-app/**'
 
 name: Manual trigger
-
-on:
   workflow_dispatch:
     inputs:
       name:
