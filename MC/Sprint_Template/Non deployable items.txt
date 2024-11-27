@@ -1,0 +1,8 @@
+###Non deployable items####
+
+1. Custom setting records creation
+2. Email-to-case setup
+3. Org Wide email setup
+4. Profile system permissions
+5. Bots activate/Deactivate
+6. Existing inactive flow/process builder deletion

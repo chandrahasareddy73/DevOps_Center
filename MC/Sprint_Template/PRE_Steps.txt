@@ -1,0 +1,11 @@
+######PRE-Steps#####
+
+//Mention steps in detail
+
+1. Create custom setting records in QA
+   i)Goto-setup, search with custom setting
+   ii)search ABC custom setting and click on manage
+   iii)Click on new and create new records
+   
+   
+   
