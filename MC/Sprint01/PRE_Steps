@@ -1,7 +1,8 @@
-######PRE-Steps#####
+****** PRE-Steps ******
 
 //Mention steps in detail
 
+Example:
 1. Create custom setting records in QA
    i)Goto-setup, search with custom setting
    ii)search ABC custom setting and click on manage
