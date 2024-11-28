@@ -1,0 +1,9 @@
+***** Add Apex Test Class Name if any apex code involved in the pull request *********
+
+Apex Class Name:
+
+
+
+Note: If multiple apex class involved in the pull request, seperate the test class name with , .
+Ex: Abc_test,xyz_test
+
